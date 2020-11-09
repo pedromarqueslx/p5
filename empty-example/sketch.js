@@ -7,8 +7,6 @@ function setup() {
 function draw() {
     background (120, 120, 120);
 
-
-
     strokeWeight(1);
     stroke(1);
     line (width, height, 0, height-10);
